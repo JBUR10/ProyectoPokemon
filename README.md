@@ -43,4 +43,10 @@ https://pokeapi.co/api/v2/pokemon/{id}
 
 ## Capturas
 
-Agregar aquí las imágenes de la aplicación funcionando.
+![API](img/image.png)
+
+![Search](img/image2.png)
+
+![More](img/image3.png)
+
+![Not found](img/image4.png)

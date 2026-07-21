@@ -1,5 +1,5 @@
 
-let limite = 12;
+let limite = 10;
 
 let offset = 0;
 
