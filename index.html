@@ -2,30 +2,27 @@
 <html lang="es">
 
 <head>
-
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Galería Pokémon</title>
-
     <link rel="stylesheet" href="style.css">
-
 </head>
 
 <body>
 
     <h1>Galería Pokémon</h1>
 
-    <input
-        type="text"
-        id="buscar"
-        placeholder="Buscar Pokémon">
+    <div class="buscador">
 
-    <button onclick="buscarPokemon()">
-        Buscar
-    </button>
+        <input type="text" id="buscar">
 
-    <div id="contenedor">
+        <button onclick="buscarPokemon()">
+            Buscar
+        </button>
 
     </div>
+
+    <div id="contenedor"></div>
 
     <button id="btnMas">
         Cargar más
